@@ -1,0 +1,59 @@
+
+h1{
+  color: orange;
+  font-size: 30px;
+  font-family: sans-serif;
+  border:pink dashed 10px;
+  text-align: center;
+}
+
+h2{
+  color:cornflowerblue;
+  font-size: 20px;
+  font-weight: bold;
+  font-family:cursive;
+}
+
+p{
+  color: white;
+  background: grey;
+  border:cornflowerblue dotted 10px;
+  font-family: cursive;
+  text-align: center;
+  border-radius: 10px;
+}
+img{
+  border-radius: 50%;
+}
+
+ol{
+  color:pink;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 30px;
+}
+
+ul{
+  color:purple;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 30px;
+}
+#mainpara{
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.headerone{
+  font-weight: lighter;
+  font-style: oblique;
+}
+
+.image{
+  padding: 10px;
+
+}
+.link:hover{
+  color: cornflowerblue;
+  
+}
